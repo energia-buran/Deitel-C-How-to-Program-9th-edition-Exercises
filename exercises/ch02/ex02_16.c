@@ -11,3 +11,9 @@ int main(void) {
     printf("The quotient of %d and %d is %d\n", a, b, a / b);
     printf("The remainder of %d and %d is %d\n", a, b, a % b);
 }
+
+/*
+My solution to Exercise 2.16:
+(Arithmetic) Write a program that reads two integers from the user then displays
+ their sum, product, difference, quotient and remainder.
+*/

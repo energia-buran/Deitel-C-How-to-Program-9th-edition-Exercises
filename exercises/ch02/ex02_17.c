@@ -9,3 +9,12 @@ int main()
     printf("3 ");
     printf("4\n");
 }
+
+/*
+My exercise to exercise 2.17:
+(Displaying Values with printf) Write a program that displays the numbers 1
+to 4 on the same line. Write the program using the following methods.
+a) Using one printf statement with no conversion specifications.
+b) Using one printf statement with four conversion specifications.
+c) Using four printf statements.
+*/
