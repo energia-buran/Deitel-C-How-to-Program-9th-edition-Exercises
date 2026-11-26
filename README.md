@@ -19,6 +19,7 @@ clang -std=c17 -g -O0 -Wall -Wextra
 
 A brief directory overview (useful when the repository has more than 5–10 files):
 
+```text
 .
 ├── exercises/      # Root folder to exercises
     ├── ch02/       # Solutions to chaper2 exercises
@@ -27,6 +28,7 @@ A brief directory overview (useful when the repository has more than 5–10 file
     ├── ch15/       # Solutions to chaper15 exercises
 ├── .gitignore      # Plain text configuration file in a Git repository that specifies intentionally untracked files and directories that Git should ignore
 └── README.md       # Project overview
+```
 
 ## License
 
