@@ -13,7 +13,7 @@ int main(void) {
 }
 
 /*
-My solution to Exercise 2.16:
+My solution to exercise 2.16:
 (Arithmetic) Write a program that reads two integers from the user then displays
  their sum, product, difference, quotient and remainder.
 */
