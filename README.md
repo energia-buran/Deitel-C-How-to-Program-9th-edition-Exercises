@@ -1,6 +1,6 @@
 # Deitel-C-How-to-Program-9th-edition-Exercises
 
-My solutions to Exercises in the end of each chapter (not Self-Review Exercises) from the book "C How to Program, 9th edition", by Paul and Harvey Deitel. 
+These are my solutions to the exercises at the end of each chapter (not the self-review exercises) from the book "C How to Program, 9th edition", by Paul and Harvey Deitel. 
 
 ## Prerequisites
 
